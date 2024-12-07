@@ -1,6 +1,7 @@
 # 🎮 Play Atari with Deep Q-Learning
 
 This project aims to replicate the results of the research paper: [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/pdf/1312.5602).
+#### Atari Games: [Breakout-v5](https://www.gymlibrary.dev/environments/atari/breakout/), [Pong-v5](https://www.gymlibrary.dev/environments/atari/pong/), [SpaceInvaders-v5](https://www.gymlibrary.dev/environments/atari/space_invaders/), [SpaceInvaders-v5](https://www.gymlibrary.dev/environments/atari/beam_rider/), [Ms-Pacman-v0](https://www.gymlibrary.dev/environments/atari/ms_pacman/), [Seaquest-v0](https://www.gymlibrary.dev/environments/atari/seaquest/)
 
 ## 🔍 Overview
 
