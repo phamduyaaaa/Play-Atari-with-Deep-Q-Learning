@@ -75,3 +75,5 @@ The following techniques are used in this project:
    ```bash
    git clone https://github.com/phamduyaaaa/Play-Atari-with-Deep-Q-Learning.git
    cd Play-Atari-with-Deep-Q-Learning
+   python3 train.py #Train
+   python3 test.py #Test
