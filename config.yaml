@@ -1,0 +1,22 @@
+training:
+  batch_size: 32
+  num_episodes: 10000
+  gamma: 0.99
+  mode: rgb_array
+testing:
+  mode: human
+  num_episodes: 1
+  model_path: checkpoints/Breakout_6650.pt
+
+epsilon:
+  start: 1.0
+  end: 0.1
+  decay: 0.999
+
+model:
+  lr: 0.0001
+  update_freq: 50
+
+memory:
+  capacity: 1000000
+env: "ALE/Breakout-v5"
