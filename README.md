@@ -1,7 +1,19 @@
 # 🎮 Play Atari with Deep Q-Learning
 
+## 🚀 About This Project
 This project aims to replicate the results of the research paper: [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/pdf/1312.5602).
 #### Atari Games: [Breakout-v5](https://www.gymlibrary.dev/environments/atari/breakout/), [Pong-v5](https://www.gymlibrary.dev/environments/atari/pong/), [SpaceInvaders-v5](https://www.gymlibrary.dev/environments/atari/space_invaders/), [SpaceInvaders-v5](https://www.gymlibrary.dev/environments/atari/beam_rider/), [Ms-Pacman-v0](https://www.gymlibrary.dev/environments/atari/ms_pacman/), [Seaquest-v5](https://www.gymlibrary.dev/environments/atari/seaquest/)
+
+---
+
+## 👾 Demo
+Due to limited computer specifications and time constraints, I have not been able to achieve the best training results. The game **MSPacman-v0** is the one I have spent the most time training on (over **30 hours** for **20,000 episodes** on both **Vast.ai** and my personal computer). The other games were trained similarly but with approximately **3,500 to 10,000 episodes**.
+
+<p align="center"><img src="https://github.com/phamduyaaaa/Play-Atari-with-Deep-Q-Learning/blob/main/demo/pacman-v0.gif" width="500"></p> 
+
+<h4 align="center">The Results MSPacman-v0</h4>
+
+---
 
 ## 🔍 Overview
 
