@@ -1,13 +1,13 @@
 # 🎮 Play Atari with Deep Q-Learning
 
 ## 🚀 About This Project
-This project aims to replicate the results of the research paper: [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/pdf/1312.5602).
+This project aims to reproduce the results of the research paper: [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/pdf/1312.5602).
 #### Atari Games: [Breakout-v5](https://www.gymlibrary.dev/environments/atari/breakout/), [Pong-v5](https://www.gymlibrary.dev/environments/atari/pong/), [SpaceInvaders-v5](https://www.gymlibrary.dev/environments/atari/space_invaders/), [SpaceInvaders-v5](https://www.gymlibrary.dev/environments/atari/beam_rider/), [Ms-Pacman-v0](https://www.gymlibrary.dev/environments/atari/ms_pacman/), [Seaquest-v5](https://www.gymlibrary.dev/environments/atari/seaquest/)
 
 ---
 
 ## 👾 Demo
-Due to limited computer specifications and time constraints, I have not been able to achieve the best training results. The game **MSPacman-v0** is the one I have spent the most time training on (over **30 hours** for **20,000 episodes** on both **Vast.ai** and my personal computer). The other games were trained similarly but with approximately **3,500 to 10,000 episodes**. The **gray frame** represents the agent's observation. In the center is where the **game operates**. The terminal outputs **the tensor of Q-values** and **the predicted action**.
+Due to limited computer specifications and time constraints, I have not been able to achieve the best training results. The game **MSPacman-v0** is the one I have spent the most time training on (over **30 hours** for **20,000 episodes** on both **Vast.ai** and my personal computer with **size of ReplayBuffer** about **50,000-100,000**). The other games were trained similarly but with approximately **3,500 to 10,000 episodes**. The **gray frame** represents the **agent's observation**. In the center is where the **game operates**. The terminal outputs **the tensor of Q-values** and **the predicted action**.
 
 <p align="center"><img src="https://github.com/phamduyaaaa/Play-Atari-with-Deep-Q-Learning/blob/main/demo/pacman-v0.gif" width="700"></p> 
 
