@@ -1,4 +1,4 @@
-# 🎮 Play Atari with Deep Q-Learning
+# 🎮 Play Atari with Double DQN
 
 ## 🚀 About This Project
 This project aims to reproduce the results of the research paper: [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/pdf/1312.5602).
