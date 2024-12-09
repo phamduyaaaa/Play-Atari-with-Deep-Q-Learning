@@ -12,6 +12,7 @@ Due to limited computer specifications and time constraints, I have not been abl
 <p align="center"><img src="https://github.com/phamduyaaaa/Play-Atari-with-Deep-Q-Learning/blob/main/demo/pacman-v0.gif" width="700"></p> 
 
 <h4 align="center">The Results MSPacman-v0.</h4>
+
 ---
 
 ## 🔍 Overview
