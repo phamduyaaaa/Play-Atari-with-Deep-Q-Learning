@@ -1,7 +1,7 @@
 # 🎮 Play Atari with Double DQN
 
 ## 🚀 About This Project
-This project aims to reproduce the results of the research paper: [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/pdf/1312.5602).
+This project aims to reproduce the results of the research paper: [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/pdf/1312.5602) and [Deep Reinforcement Learning with Double Q-learning](https://arxiv.org/pdf/1509.06461)
 #### Atari Games: [Breakout-v5](https://www.gymlibrary.dev/environments/atari/breakout/), [Pong-v5](https://www.gymlibrary.dev/environments/atari/pong/), [SpaceInvaders-v5](https://www.gymlibrary.dev/environments/atari/space_invaders/), [SpaceInvaders-v5](https://www.gymlibrary.dev/environments/atari/beam_rider/), [Ms-Pacman-v0](https://www.gymlibrary.dev/environments/atari/ms_pacman/), [Seaquest-v5](https://www.gymlibrary.dev/environments/atari/seaquest/)
 
 ---
